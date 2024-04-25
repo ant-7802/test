@@ -1,0 +1,62 @@
+body {
+background-color: #3b3b3b;
+}
+
+#top-header {
+    background: linear-gradient(to bottom, #000000 0%, #3c3c3c 100%);
+}
+#second-menu ul li a {
+    color: white;
+}
+
+.page-h1 {
+    color: white;   
+}
+
+.sorting {
+    color: white;
+}
+
+body.cke_editable.cke_editable_themed.cke_contents_ltr {
+    color: white;
+}
+
+#side-menu li{
+    background: #232323;
+    border-radius: 40px;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+ul#side-menu{
+    margin-top: 0px;
+}
+
+strong {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+table.dataTable tbody tr {
+    background-color: #fff0;
+}
+
+h1 {
+    color: white;
+}
+
+.progress-bar-success {
+    background-color: gray;
+}
+
+.form-control {
+    background-color: #262626;
+    color: white;
+}
